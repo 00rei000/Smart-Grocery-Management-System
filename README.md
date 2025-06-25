@@ -125,9 +125,6 @@ The **Smart Grocery Management System** is a web application designed to help ho
 ### Contributing
 Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request with your changes.
 
-### License
-This project is licensed under the MIT License.
-
 ---
 
 ## Japanese Version / 日本語版
@@ -250,6 +247,3 @@ This project is licensed under the MIT License.
 
 ### 貢献
 貢献を歓迎します！リポジトリをフォークし、機能ブランチを作成し、変更をプルリクエストとして提出してください。
-
-### ライセンス
-このプロジェクトはMITライセンスの下でライセンスされています。
