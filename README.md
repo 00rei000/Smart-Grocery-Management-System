@@ -4,7 +4,7 @@
 - [English Version](#english-version)
 - [Japanese Version](#japanese-version)
 
-## English Version
+## English Version <a id="english-version"></a>
 
 ### Smart Grocery Management System
 The **Smart Grocery Management System** is a web application designed to help households manage food inventory, plan meals, and track consumption efficiently. It is ideal for families aiming to reduce food waste and streamline grocery planning. The system supports three roles: **Home Cook** (manages food inventory, meal plans, and shopping lists), **Family Member** (views consumption reports and collaborates on shopping lists), and **Admin** (manages users and system performance).
@@ -125,9 +125,8 @@ The **Smart Grocery Management System** is a web application designed to help ho
 ### Contributing
 Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request with your changes.
 
----
-
-## Japanese Version / 日本語版
+## Japanese Version <a id="japanese-version"></a>
+日本語版
 
 ### スマート食料管理システム
 **スマート食料管理システム**は、家庭での食品在庫管理、食事計画、消費追跡を効率的に行うためのウェブアプリケーションです。食品の無駄を減らし、食料計画を効率化したい家庭に最適です。3つの主な役割をサポートします：**ホームクック**（食品在庫、食事計画、買い物リストの管理）、**家族メンバー**（消費レポートの閲覧、買い物リストの共有）、**管理者**（ユーザーおよびシステムパフォーマンスの管理）。
