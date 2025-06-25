@@ -1,0 +1,32 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python Bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Django database
+db.sqlite3
+
+# Django migrations
+*/migrations/*
+
+# Django static files
+/staticfiles/
+/static/
+
+# Django media files
+/media/
+
+# .env file containing sensitive information
+*.env
+
+# IDEs
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
